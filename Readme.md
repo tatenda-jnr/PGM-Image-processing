@@ -1,5 +1,7 @@
-#PGM Image processing 
-Program allows user to perform operations like masking, thresholding, inverting, adding, subtrating
+PGM Image processing 
+--------------------
+
+Program allows user to perform operations like masking, thresholding, inverting, adding, subtracting
 and filtering PGM images 
 
 usage :
